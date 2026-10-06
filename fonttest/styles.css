@@ -18,15 +18,16 @@
 body {
     max-width: 600px;
     margin: auto;
-    font-family:  'Merriweather', serif;
-    font-weight: 400;
+   font-family: "Montserrat", sans-serif;
+    font-weight: 765;
+    font-style: italic;
 }
 
 h1 {
     font-family: "freightround_probold", arial, sans-serif;
 }
 footer p {
-     font-weight: 700;
+      font-family:  'freightround_probold', arial, sans-serif;
 }
 
 .icons { 
